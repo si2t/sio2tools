@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <title>{RANKINGNAME}</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <style>
+            body {
+                width: 100vw;
+                height: 100%;
+            }
+            thead th {
+                background-color: var(--bs-dark) !important;
+                backdrop-filter: brightness(60%) !important;
+                -webkit-backdrop-filter: brightness(60%) !important;
+            }
+            tr:nth-child(even) * {
+                background-color: var(--bs-dark) !important;
+                backdrop-filter: brightness(160%) !important;
+                -webkit-backdrop-filter: brightness(160%) !important;
+            }
+            tr:hover * {
+                background-color: #555 !important;
+            }
+            table * { /* overwrite bootstrap css */
+                background-color: var(--bs-dark) !important;
+                color: #ddd !important;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container-fluid w-100 h-100 bg-dark" id="main">
+            <h1 class="fw-bold text-light">{RANKINGNAME}</h1>
+            <p>Wygenerowany: {GENERATED_TIME}</p>
+            <table class="container-fluid table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Imię i nazwisko</th>
+                        <th scope="col">Suma</th>
+                        <th scope="col">A</th>
+                        <th scope="col">B</th>
+                        <th scope="col">C</th>
+                        <th scope="col">D</th>
+                    </tr>
+                </thead>
+                <tbody>
+                  <!--- {table filling goes here} ---->
+                </tbody>
+            </table>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    </body>
+</html>

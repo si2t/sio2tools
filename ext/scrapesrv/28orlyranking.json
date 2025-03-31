@@ -1,0 +1,4951 @@
+{
+  "contest": "28orly",
+  "tasks": [
+    "bas",
+    "ils",
+    "ogr",
+    "plu",
+    "pro",
+    "psd",
+    "bok",
+    "hft",
+    "ile1",
+    "lpr",
+    "par",
+    "riz",
+    "dnw",
+    "drw",
+    "kdk",
+    "ott",
+    "plu1",
+    "tel",
+    "cen",
+    "pal",
+    "pln",
+    "ptr",
+    "szp",
+    "zna",
+    "kmp",
+    "nsk",
+    "num",
+    "prm",
+    "skl",
+    "smk",
+    "ast",
+    "ckr",
+    "kwi",
+    "kww",
+    "lpr1",
+    "odt",
+    "dzi",
+    "gra",
+    "mlw",
+    "ptk",
+    "rep",
+    "spa",
+    "akc",
+    "kar",
+    "ple",
+    "prz",
+    "rdt",
+    "wos",
+    "cfr",
+    "kaj",
+    "lic",
+    "nwz",
+    "sad",
+    "tap",
+    "czy",
+    "hnd",
+    "orz",
+    "pod1",
+    "slo",
+    "trp",
+    "cgl",
+    "cli",
+    "fun",
+    "mls",
+    "sfc",
+    "sie"
+  ],
+  "users": [
+    {
+      "idx": 1,
+      "name": "Konrad Sicinski",
+      "sum_points": 6600,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 100
+        },
+        {
+          "name": "plu",
+          "points": 100
+        },
+        {
+          "name": "pro",
+          "points": 100
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 100
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 100
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 100
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": 100
+        },
+        {
+          "name": "tel",
+          "points": 100
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 100
+        },
+        {
+          "name": "ptr",
+          "points": 100
+        },
+        {
+          "name": "szp",
+          "points": 100
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 100
+        },
+        {
+          "name": "skl",
+          "points": 100
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 100
+        },
+        {
+          "name": "kww",
+          "points": 100
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 100
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": 100
+        },
+        {
+          "name": "prz",
+          "points": 100
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": 100
+        },
+        {
+          "name": "tap",
+          "points": 100
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": 100
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": 100
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 100
+        },
+        {
+          "name": "cli",
+          "points": 100
+        },
+        {
+          "name": "fun",
+          "points": 100
+        },
+        {
+          "name": "mls",
+          "points": 100
+        },
+        {
+          "name": "sfc",
+          "points": 100
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "name": "Julian Stępień",
+      "sum_points": 6550,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 70
+        },
+        {
+          "name": "plu",
+          "points": 85
+        },
+        {
+          "name": "pro",
+          "points": 100
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 100
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 100
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 100
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": 95
+        },
+        {
+          "name": "tel",
+          "points": 100
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 100
+        },
+        {
+          "name": "ptr",
+          "points": 100
+        },
+        {
+          "name": "szp",
+          "points": 100
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 100
+        },
+        {
+          "name": "skl",
+          "points": 100
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 100
+        },
+        {
+          "name": "kww",
+          "points": 100
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 100
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": 100
+        },
+        {
+          "name": "prz",
+          "points": 100
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": 100
+        },
+        {
+          "name": "tap",
+          "points": 100
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": 100
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": 100
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 100
+        },
+        {
+          "name": "cli",
+          "points": 100
+        },
+        {
+          "name": "fun",
+          "points": 100
+        },
+        {
+          "name": "mls",
+          "points": 100
+        },
+        {
+          "name": "sfc",
+          "points": 100
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "name": "Rafał Starego",
+      "sum_points": 6510,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 85
+        },
+        {
+          "name": "plu",
+          "points": 85
+        },
+        {
+          "name": "pro",
+          "points": 100
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 100
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 100
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 100
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": 85
+        },
+        {
+          "name": "tel",
+          "points": 100
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 100
+        },
+        {
+          "name": "ptr",
+          "points": 100
+        },
+        {
+          "name": "szp",
+          "points": 85
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 100
+        },
+        {
+          "name": "skl",
+          "points": 85
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 85
+        },
+        {
+          "name": "kww",
+          "points": 100
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 100
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": 100
+        },
+        {
+          "name": "prz",
+          "points": 100
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": 100
+        },
+        {
+          "name": "tap",
+          "points": 100
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": 100
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": 100
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 100
+        },
+        {
+          "name": "cli",
+          "points": 100
+        },
+        {
+          "name": "fun",
+          "points": 100
+        },
+        {
+          "name": "mls",
+          "points": 100
+        },
+        {
+          "name": "sfc",
+          "points": 100
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "name": "Ewelina Lala",
+      "sum_points": 6496,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 85
+        },
+        {
+          "name": "plu",
+          "points": 85
+        },
+        {
+          "name": "pro",
+          "points": 100
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 85
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 98
+        },
+        {
+          "name": "par",
+          "points": 100
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 100
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": 85
+        },
+        {
+          "name": "tel",
+          "points": 100
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 100
+        },
+        {
+          "name": "ptr",
+          "points": 100
+        },
+        {
+          "name": "szp",
+          "points": 85
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 100
+        },
+        {
+          "name": "skl",
+          "points": 85
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 88
+        },
+        {
+          "name": "kww",
+          "points": 100
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 100
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": 100
+        },
+        {
+          "name": "prz",
+          "points": 100
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": 100
+        },
+        {
+          "name": "tap",
+          "points": 100
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": 100
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": 100
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 100
+        },
+        {
+          "name": "cli",
+          "points": 100
+        },
+        {
+          "name": "fun",
+          "points": 100
+        },
+        {
+          "name": "mls",
+          "points": 100
+        },
+        {
+          "name": "sfc",
+          "points": 100
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "name": "Krzysztof Marszewski",
+      "sum_points": 6485,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 85
+        },
+        {
+          "name": "plu",
+          "points": 85
+        },
+        {
+          "name": "pro",
+          "points": 100
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 100
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 100
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 100
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": 85
+        },
+        {
+          "name": "tel",
+          "points": 100
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 100
+        },
+        {
+          "name": "ptr",
+          "points": 100
+        },
+        {
+          "name": "szp",
+          "points": 85
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 100
+        },
+        {
+          "name": "skl",
+          "points": 85
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 85
+        },
+        {
+          "name": "kww",
+          "points": 100
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 100
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": 100
+        },
+        {
+          "name": "prz",
+          "points": 85
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": 100
+        },
+        {
+          "name": "tap",
+          "points": 100
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": 100
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": 100
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 100
+        },
+        {
+          "name": "cli",
+          "points": 100
+        },
+        {
+          "name": "fun",
+          "points": 100
+        },
+        {
+          "name": "mls",
+          "points": 90
+        },
+        {
+          "name": "sfc",
+          "points": 100
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "name": "Szymon Skowron",
+      "sum_points": 6110,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 100
+        },
+        {
+          "name": "plu",
+          "points": 0
+        },
+        {
+          "name": "pro",
+          "points": 100
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 100
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 100
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 100
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": 31
+        },
+        {
+          "name": "tel",
+          "points": 70
+        },
+        {
+          "name": "cen",
+          "points": 76
+        },
+        {
+          "name": "pal",
+          "points": 85
+        },
+        {
+          "name": "pln",
+          "points": 85
+        },
+        {
+          "name": "ptr",
+          "points": 79
+        },
+        {
+          "name": "szp",
+          "points": 0
+        },
+        {
+          "name": "zna",
+          "points": 85
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 100
+        },
+        {
+          "name": "skl",
+          "points": 42
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 85
+        },
+        {
+          "name": "kww",
+          "points": 100
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 100
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": 85
+        },
+        {
+          "name": "prz",
+          "points": 87
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": 100
+        },
+        {
+          "name": "tap",
+          "points": 100
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": 100
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": 100
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 100
+        },
+        {
+          "name": "cli",
+          "points": 100
+        },
+        {
+          "name": "fun",
+          "points": 100
+        },
+        {
+          "name": "mls",
+          "points": 100
+        },
+        {
+          "name": "sfc",
+          "points": 100
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "name": "Antoni Szczesiak",
+      "sum_points": 5882,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 88
+        },
+        {
+          "name": "plu",
+          "points": 0
+        },
+        {
+          "name": "pro",
+          "points": 100
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 100
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 96
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 92
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": 31
+        },
+        {
+          "name": "tel",
+          "points": 85
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 98
+        },
+        {
+          "name": "ptr",
+          "points": 100
+        },
+        {
+          "name": "szp",
+          "points": 0
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 100
+        },
+        {
+          "name": "skl",
+          "points": 0
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 0
+        },
+        {
+          "name": "kww",
+          "points": 100
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 100
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": 100
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": 92
+        },
+        {
+          "name": "tap",
+          "points": 100
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": 100
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": 100
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 100
+        },
+        {
+          "name": "cli",
+          "points": 100
+        },
+        {
+          "name": "fun",
+          "points": 100
+        },
+        {
+          "name": "mls",
+          "points": 0
+        },
+        {
+          "name": "sfc",
+          "points": 100
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "name": "Jan Fryca",
+      "sum_points": 5783,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 98
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 85
+        },
+        {
+          "name": "plu",
+          "points": 0
+        },
+        {
+          "name": "pro",
+          "points": 100
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 100
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 100
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 100
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": ""
+        },
+        {
+          "name": "tel",
+          "points": 100
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 100
+        },
+        {
+          "name": "ptr",
+          "points": 100
+        },
+        {
+          "name": "szp",
+          "points": 0
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 100
+        },
+        {
+          "name": "skl",
+          "points": 0
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 0
+        },
+        {
+          "name": "kww",
+          "points": 100
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 100
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": 100
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": 100
+        },
+        {
+          "name": "tap",
+          "points": 100
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": 100
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": 100
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": ""
+        },
+        {
+          "name": "cli",
+          "points": 100
+        },
+        {
+          "name": "fun",
+          "points": 100
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": 100
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "name": "Roman Szymanowicz",
+      "sum_points": 4823,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 0
+        },
+        {
+          "name": "plu",
+          "points": 0
+        },
+        {
+          "name": "pro",
+          "points": 90
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 42
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 85
+        },
+        {
+          "name": "riz",
+          "points": 94
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 100
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": 75
+        },
+        {
+          "name": "tel",
+          "points": 59
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 85
+        },
+        {
+          "name": "ptr",
+          "points": 79
+        },
+        {
+          "name": "szp",
+          "points": ""
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 85
+        },
+        {
+          "name": "skl",
+          "points": ""
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": ""
+        },
+        {
+          "name": "kww",
+          "points": 0
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 85
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 99
+        },
+        {
+          "name": "akc",
+          "points": 67
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": 40
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 89
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": 0
+        },
+        {
+          "name": "tap",
+          "points": 0
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": ""
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 100
+        },
+        {
+          "name": "cli",
+          "points": 25
+        },
+        {
+          "name": "fun",
+          "points": 24
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": 0
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "name": "Anna Rymon Lipińska",
+      "sum_points": 4758,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 85
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": ""
+        },
+        {
+          "name": "plu",
+          "points": 60
+        },
+        {
+          "name": "pro",
+          "points": 85
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 85
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 90
+        },
+        {
+          "name": "par",
+          "points": 85
+        },
+        {
+          "name": "riz",
+          "points": 85
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 92
+        },
+        {
+          "name": "kdk",
+          "points": 85
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": ""
+        },
+        {
+          "name": "tel",
+          "points": 85
+        },
+        {
+          "name": "cen",
+          "points": 85
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 76
+        },
+        {
+          "name": "ptr",
+          "points": 85
+        },
+        {
+          "name": "szp",
+          "points": ""
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 85
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 85
+        },
+        {
+          "name": "skl",
+          "points": ""
+        },
+        {
+          "name": "smk",
+          "points": 85
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": ""
+        },
+        {
+          "name": "kww",
+          "points": 85
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 100
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": 0
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": ""
+        },
+        {
+          "name": "tap",
+          "points": 91
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": ""
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 0
+        },
+        {
+          "name": "cli",
+          "points": ""
+        },
+        {
+          "name": "fun",
+          "points": ""
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": ""
+        },
+        {
+          "name": "sie",
+          "points": 44
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "name": "Szymon Bogdanis",
+      "sum_points": 4625,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": ""
+        },
+        {
+          "name": "plu",
+          "points": ""
+        },
+        {
+          "name": "pro",
+          "points": 100
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 85
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 85
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 100
+        },
+        {
+          "name": "kdk",
+          "points": 100
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": ""
+        },
+        {
+          "name": "tel",
+          "points": ""
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 100
+        },
+        {
+          "name": "ptr",
+          "points": 100
+        },
+        {
+          "name": "szp",
+          "points": ""
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": ""
+        },
+        {
+          "name": "skl",
+          "points": ""
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 20
+        },
+        {
+          "name": "kww",
+          "points": ""
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 85
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": ""
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": ""
+        },
+        {
+          "name": "tap",
+          "points": 0
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": ""
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": 100
+        },
+        {
+          "name": "cli",
+          "points": 50
+        },
+        {
+          "name": "fun",
+          "points": ""
+        },
+        {
+          "name": "mls",
+          "points": 0
+        },
+        {
+          "name": "sfc",
+          "points": ""
+        },
+        {
+          "name": "sie",
+          "points": ""
+        }
+      ]
+    },
+    {
+      "idx": 12,
+      "name": "Faustyna Bulczak",
+      "sum_points": 4409,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 85
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": ""
+        },
+        {
+          "name": "plu",
+          "points": ""
+        },
+        {
+          "name": "pro",
+          "points": 85
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 85
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 85
+        },
+        {
+          "name": "par",
+          "points": 85
+        },
+        {
+          "name": "riz",
+          "points": 85
+        },
+        {
+          "name": "dnw",
+          "points": 85
+        },
+        {
+          "name": "drw",
+          "points": 85
+        },
+        {
+          "name": "kdk",
+          "points": 85
+        },
+        {
+          "name": "ott",
+          "points": 85
+        },
+        {
+          "name": "plu1",
+          "points": ""
+        },
+        {
+          "name": "tel",
+          "points": 85
+        },
+        {
+          "name": "cen",
+          "points": 85
+        },
+        {
+          "name": "pal",
+          "points": 85
+        },
+        {
+          "name": "pln",
+          "points": 85
+        },
+        {
+          "name": "ptr",
+          "points": 85
+        },
+        {
+          "name": "szp",
+          "points": ""
+        },
+        {
+          "name": "zna",
+          "points": 85
+        },
+        {
+          "name": "kmp",
+          "points": 85
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 85
+        },
+        {
+          "name": "skl",
+          "points": ""
+        },
+        {
+          "name": "smk",
+          "points": 86
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": ""
+        },
+        {
+          "name": "kww",
+          "points": ""
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": 85
+        },
+        {
+          "name": "mlw",
+          "points": 100
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 100
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": ""
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 89
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 85
+        },
+        {
+          "name": "sad",
+          "points": ""
+        },
+        {
+          "name": "tap",
+          "points": 34
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": ""
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": ""
+        },
+        {
+          "name": "cli",
+          "points": ""
+        },
+        {
+          "name": "fun",
+          "points": ""
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": ""
+        },
+        {
+          "name": "sie",
+          "points": ""
+        }
+      ]
+    },
+    {
+      "idx": 13,
+      "name": "Marcel Wroński",
+      "sum_points": 4358,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": ""
+        },
+        {
+          "name": "plu",
+          "points": ""
+        },
+        {
+          "name": "pro",
+          "points": 80
+        },
+        {
+          "name": "psd",
+          "points": 85
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 0
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 100
+        },
+        {
+          "name": "par",
+          "points": 50
+        },
+        {
+          "name": "riz",
+          "points": 80
+        },
+        {
+          "name": "dnw",
+          "points": 85
+        },
+        {
+          "name": "drw",
+          "points": 92
+        },
+        {
+          "name": "kdk",
+          "points": 85
+        },
+        {
+          "name": "ott",
+          "points": 85
+        },
+        {
+          "name": "plu1",
+          "points": 0
+        },
+        {
+          "name": "tel",
+          "points": 17
+        },
+        {
+          "name": "cen",
+          "points": 100
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 100
+        },
+        {
+          "name": "ptr",
+          "points": 100
+        },
+        {
+          "name": "szp",
+          "points": ""
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 100
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 100
+        },
+        {
+          "name": "skl",
+          "points": ""
+        },
+        {
+          "name": "smk",
+          "points": 100
+        },
+        {
+          "name": "ast",
+          "points": 97
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": ""
+        },
+        {
+          "name": "kww",
+          "points": ""
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": ""
+        },
+        {
+          "name": "mlw",
+          "points": 17
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": ""
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": ""
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 100
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": 100
+        },
+        {
+          "name": "sad",
+          "points": ""
+        },
+        {
+          "name": "tap",
+          "points": 85
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": ""
+        },
+        {
+          "name": "slo",
+          "points": 100
+        },
+        {
+          "name": "trp",
+          "points": 100
+        },
+        {
+          "name": "cgl",
+          "points": ""
+        },
+        {
+          "name": "cli",
+          "points": ""
+        },
+        {
+          "name": "fun",
+          "points": ""
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": 100
+        },
+        {
+          "name": "sie",
+          "points": 100
+        }
+      ]
+    },
+    {
+      "idx": 14,
+      "name": "Kacper Drabek",
+      "sum_points": 3119,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 100
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": 0
+        },
+        {
+          "name": "plu",
+          "points": 0
+        },
+        {
+          "name": "pro",
+          "points": 85
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": 0
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 85
+        },
+        {
+          "name": "par",
+          "points": 0
+        },
+        {
+          "name": "riz",
+          "points": 100
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 91
+        },
+        {
+          "name": "kdk",
+          "points": 85
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": 0
+        },
+        {
+          "name": "tel",
+          "points": 0
+        },
+        {
+          "name": "cen",
+          "points": 0
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 0
+        },
+        {
+          "name": "ptr",
+          "points": 0
+        },
+        {
+          "name": "szp",
+          "points": 0
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 0
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": 0
+        },
+        {
+          "name": "skl",
+          "points": 0
+        },
+        {
+          "name": "smk",
+          "points": 86
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": 0
+        },
+        {
+          "name": "kww",
+          "points": 0
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": ""
+        },
+        {
+          "name": "mlw",
+          "points": ""
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 0
+        },
+        {
+          "name": "kar",
+          "points": 100
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": ""
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 85
+        },
+        {
+          "name": "kaj",
+          "points": ""
+        },
+        {
+          "name": "lic",
+          "points": 85
+        },
+        {
+          "name": "nwz",
+          "points": 17
+        },
+        {
+          "name": "sad",
+          "points": ""
+        },
+        {
+          "name": "tap",
+          "points": ""
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": 0
+        },
+        {
+          "name": "slo",
+          "points": 0
+        },
+        {
+          "name": "trp",
+          "points": ""
+        },
+        {
+          "name": "cgl",
+          "points": ""
+        },
+        {
+          "name": "cli",
+          "points": ""
+        },
+        {
+          "name": "fun",
+          "points": ""
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": ""
+        },
+        {
+          "name": "sie",
+          "points": ""
+        }
+      ]
+    },
+    {
+      "idx": 15,
+      "name": "Mateusz Matylla",
+      "sum_points": 3117,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 85
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": ""
+        },
+        {
+          "name": "plu",
+          "points": ""
+        },
+        {
+          "name": "pro",
+          "points": 0
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": ""
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 85
+        },
+        {
+          "name": "par",
+          "points": ""
+        },
+        {
+          "name": "riz",
+          "points": 85
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 50
+        },
+        {
+          "name": "kdk",
+          "points": 85
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": ""
+        },
+        {
+          "name": "tel",
+          "points": ""
+        },
+        {
+          "name": "cen",
+          "points": 20
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": ""
+        },
+        {
+          "name": "ptr",
+          "points": 0
+        },
+        {
+          "name": "szp",
+          "points": ""
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": 85
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": ""
+        },
+        {
+          "name": "skl",
+          "points": ""
+        },
+        {
+          "name": "smk",
+          "points": 85
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": ""
+        },
+        {
+          "name": "kww",
+          "points": ""
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": ""
+        },
+        {
+          "name": "mlw",
+          "points": 60
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 100
+        },
+        {
+          "name": "akc",
+          "points": 0
+        },
+        {
+          "name": "kar",
+          "points": ""
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": ""
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 100
+        },
+        {
+          "name": "kaj",
+          "points": 33
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": ""
+        },
+        {
+          "name": "sad",
+          "points": ""
+        },
+        {
+          "name": "tap",
+          "points": ""
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": 100
+        },
+        {
+          "name": "pod1",
+          "points": ""
+        },
+        {
+          "name": "slo",
+          "points": 0
+        },
+        {
+          "name": "trp",
+          "points": 0
+        },
+        {
+          "name": "cgl",
+          "points": ""
+        },
+        {
+          "name": "cli",
+          "points": ""
+        },
+        {
+          "name": "fun",
+          "points": ""
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": ""
+        },
+        {
+          "name": "sie",
+          "points": 44
+        }
+      ]
+    },
+    {
+      "idx": 16,
+      "name": "Iga Biedroń",
+      "sum_points": 2910,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 85
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": ""
+        },
+        {
+          "name": "plu",
+          "points": ""
+        },
+        {
+          "name": "pro",
+          "points": 68
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": ""
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 85
+        },
+        {
+          "name": "par",
+          "points": ""
+        },
+        {
+          "name": "riz",
+          "points": 85
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 92
+        },
+        {
+          "name": "kdk",
+          "points": 85
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": ""
+        },
+        {
+          "name": "tel",
+          "points": ""
+        },
+        {
+          "name": "cen",
+          "points": 85
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": ""
+        },
+        {
+          "name": "ptr",
+          "points": ""
+        },
+        {
+          "name": "szp",
+          "points": ""
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": ""
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": ""
+        },
+        {
+          "name": "skl",
+          "points": ""
+        },
+        {
+          "name": "smk",
+          "points": 85
+        },
+        {
+          "name": "ast",
+          "points": 85
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": ""
+        },
+        {
+          "name": "kww",
+          "points": ""
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": ""
+        },
+        {
+          "name": "mlw",
+          "points": ""
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": 85
+        },
+        {
+          "name": "akc",
+          "points": 85
+        },
+        {
+          "name": "kar",
+          "points": ""
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": ""
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": 85
+        },
+        {
+          "name": "kaj",
+          "points": ""
+        },
+        {
+          "name": "lic",
+          "points": ""
+        },
+        {
+          "name": "nwz",
+          "points": ""
+        },
+        {
+          "name": "sad",
+          "points": ""
+        },
+        {
+          "name": "tap",
+          "points": ""
+        },
+        {
+          "name": "czy",
+          "points": 100
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": ""
+        },
+        {
+          "name": "pod1",
+          "points": ""
+        },
+        {
+          "name": "slo",
+          "points": ""
+        },
+        {
+          "name": "trp",
+          "points": ""
+        },
+        {
+          "name": "cgl",
+          "points": ""
+        },
+        {
+          "name": "cli",
+          "points": ""
+        },
+        {
+          "name": "fun",
+          "points": ""
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": ""
+        },
+        {
+          "name": "sie",
+          "points": ""
+        }
+      ]
+    },
+    {
+      "idx": 17,
+      "name": "Mikołaj Baranowski",
+      "sum_points": 2320,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": 0
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": ""
+        },
+        {
+          "name": "plu",
+          "points": ""
+        },
+        {
+          "name": "pro",
+          "points": 59
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": ""
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": 85
+        },
+        {
+          "name": "par",
+          "points": ""
+        },
+        {
+          "name": "riz",
+          "points": 85
+        },
+        {
+          "name": "dnw",
+          "points": 100
+        },
+        {
+          "name": "drw",
+          "points": 91
+        },
+        {
+          "name": "kdk",
+          "points": ""
+        },
+        {
+          "name": "ott",
+          "points": 100
+        },
+        {
+          "name": "plu1",
+          "points": ""
+        },
+        {
+          "name": "tel",
+          "points": ""
+        },
+        {
+          "name": "cen",
+          "points": ""
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": ""
+        },
+        {
+          "name": "ptr",
+          "points": ""
+        },
+        {
+          "name": "szp",
+          "points": ""
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": ""
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": ""
+        },
+        {
+          "name": "skl",
+          "points": ""
+        },
+        {
+          "name": "smk",
+          "points": ""
+        },
+        {
+          "name": "ast",
+          "points": 100
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": ""
+        },
+        {
+          "name": "kww",
+          "points": ""
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": ""
+        },
+        {
+          "name": "mlw",
+          "points": ""
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": 100
+        },
+        {
+          "name": "spa",
+          "points": ""
+        },
+        {
+          "name": "akc",
+          "points": ""
+        },
+        {
+          "name": "kar",
+          "points": ""
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": ""
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": ""
+        },
+        {
+          "name": "kaj",
+          "points": ""
+        },
+        {
+          "name": "lic",
+          "points": 100
+        },
+        {
+          "name": "nwz",
+          "points": ""
+        },
+        {
+          "name": "sad",
+          "points": ""
+        },
+        {
+          "name": "tap",
+          "points": ""
+        },
+        {
+          "name": "czy",
+          "points": ""
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": ""
+        },
+        {
+          "name": "pod1",
+          "points": ""
+        },
+        {
+          "name": "slo",
+          "points": ""
+        },
+        {
+          "name": "trp",
+          "points": ""
+        },
+        {
+          "name": "cgl",
+          "points": ""
+        },
+        {
+          "name": "cli",
+          "points": ""
+        },
+        {
+          "name": "fun",
+          "points": ""
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": ""
+        },
+        {
+          "name": "sie",
+          "points": ""
+        }
+      ]
+    },
+    {
+      "idx": 18,
+      "name": "Dominik Walczak",
+      "sum_points": 2187,
+      "tasks": [
+        {
+          "name": "bas",
+          "points": ""
+        },
+        {
+          "name": "ils",
+          "points": 100
+        },
+        {
+          "name": "ogr",
+          "points": ""
+        },
+        {
+          "name": "plu",
+          "points": ""
+        },
+        {
+          "name": "pro",
+          "points": ""
+        },
+        {
+          "name": "psd",
+          "points": 100
+        },
+        {
+          "name": "bok",
+          "points": 100
+        },
+        {
+          "name": "hft",
+          "points": ""
+        },
+        {
+          "name": "ile1",
+          "points": 100
+        },
+        {
+          "name": "lpr",
+          "points": ""
+        },
+        {
+          "name": "par",
+          "points": ""
+        },
+        {
+          "name": "riz",
+          "points": ""
+        },
+        {
+          "name": "dnw",
+          "points": 85
+        },
+        {
+          "name": "drw",
+          "points": 92
+        },
+        {
+          "name": "kdk",
+          "points": ""
+        },
+        {
+          "name": "ott",
+          "points": 85
+        },
+        {
+          "name": "plu1",
+          "points": ""
+        },
+        {
+          "name": "tel",
+          "points": ""
+        },
+        {
+          "name": "cen",
+          "points": ""
+        },
+        {
+          "name": "pal",
+          "points": 100
+        },
+        {
+          "name": "pln",
+          "points": 85
+        },
+        {
+          "name": "ptr",
+          "points": ""
+        },
+        {
+          "name": "szp",
+          "points": ""
+        },
+        {
+          "name": "zna",
+          "points": 100
+        },
+        {
+          "name": "kmp",
+          "points": ""
+        },
+        {
+          "name": "nsk",
+          "points": 100
+        },
+        {
+          "name": "num",
+          "points": 100
+        },
+        {
+          "name": "prm",
+          "points": ""
+        },
+        {
+          "name": "skl",
+          "points": ""
+        },
+        {
+          "name": "smk",
+          "points": ""
+        },
+        {
+          "name": "ast",
+          "points": 85
+        },
+        {
+          "name": "ckr",
+          "points": 100
+        },
+        {
+          "name": "kwi",
+          "points": ""
+        },
+        {
+          "name": "kww",
+          "points": ""
+        },
+        {
+          "name": "lpr1",
+          "points": 100
+        },
+        {
+          "name": "odt",
+          "points": 100
+        },
+        {
+          "name": "dzi",
+          "points": 100
+        },
+        {
+          "name": "gra",
+          "points": ""
+        },
+        {
+          "name": "mlw",
+          "points": ""
+        },
+        {
+          "name": "ptk",
+          "points": 100
+        },
+        {
+          "name": "rep",
+          "points": ""
+        },
+        {
+          "name": "spa",
+          "points": 85
+        },
+        {
+          "name": "akc",
+          "points": ""
+        },
+        {
+          "name": "kar",
+          "points": ""
+        },
+        {
+          "name": "ple",
+          "points": ""
+        },
+        {
+          "name": "prz",
+          "points": ""
+        },
+        {
+          "name": "rdt",
+          "points": 100
+        },
+        {
+          "name": "wos",
+          "points": 100
+        },
+        {
+          "name": "cfr",
+          "points": ""
+        },
+        {
+          "name": "kaj",
+          "points": ""
+        },
+        {
+          "name": "lic",
+          "points": 85
+        },
+        {
+          "name": "nwz",
+          "points": ""
+        },
+        {
+          "name": "sad",
+          "points": ""
+        },
+        {
+          "name": "tap",
+          "points": ""
+        },
+        {
+          "name": "czy",
+          "points": ""
+        },
+        {
+          "name": "hnd",
+          "points": ""
+        },
+        {
+          "name": "orz",
+          "points": ""
+        },
+        {
+          "name": "pod1",
+          "points": ""
+        },
+        {
+          "name": "slo",
+          "points": 85
+        },
+        {
+          "name": "trp",
+          "points": ""
+        },
+        {
+          "name": "cgl",
+          "points": ""
+        },
+        {
+          "name": "cli",
+          "points": ""
+        },
+        {
+          "name": "fun",
+          "points": ""
+        },
+        {
+          "name": "mls",
+          "points": ""
+        },
+        {
+          "name": "sfc",
+          "points": ""
+        },
+        {
+          "name": "sie",
+          "points": ""
+        }
+      ]
+    }
+  ]
+}

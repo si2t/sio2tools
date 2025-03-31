@@ -1,0 +1,6 @@
+requests
+bs4
+fastapi
+uvicorn
+colorama
+pyyaml
